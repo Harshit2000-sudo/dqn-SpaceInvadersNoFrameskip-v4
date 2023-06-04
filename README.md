@@ -86,4 +86,4 @@ OrderedDict([('batch_size', 32),
 ```
 Demo:
 
-[replay.mp4](https://github.com/Harshit2000-sudo/dqn-SpaceInvadersNoFrameskip-v4/blob/main/replay.mp4)
+https://github.com/Harshit2000-sudo/dqn-SpaceInvadersNoFrameskip-v4/blob/main/replay.mp4
