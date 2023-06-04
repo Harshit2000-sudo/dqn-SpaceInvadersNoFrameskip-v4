@@ -84,3 +84,6 @@ OrderedDict([('batch_size', 32),
 ```python
 {'render_mode': 'rgb_array'}
 ```
+Demo:
+
+replay.mp4
